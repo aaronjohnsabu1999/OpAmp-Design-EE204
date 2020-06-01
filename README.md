@@ -1,6 +1,6 @@
 # The Design of an Operational Amplifier
 
-Disclaimer: This README is a shortened version of the [report](./Report.pdf). Hence, if you are interested in knowing more about the project, you may choose to skip to the report directly.  
+More details are given in the [report](./Report.pdf). Hence, if you are interested in knowing more about the project, you may choose to skip to the report directly.  
 ***
 
 The aim of this assignment is to design and simulate a single-ended differential amplifier which is used as an op-amp to simulate other circuits such as amplifiers, filters, oscillators, and negative differential resistance.  
